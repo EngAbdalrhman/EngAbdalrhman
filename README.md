@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <h3 align="center">A Software Engineer From Egypt</h3>
 
 
-- 🌱 I’m currently learning **Blockchain**
-- 🌱 <b>Getting better at:</b> Agile, Software Development, Design Pattern.
+- 🌱 I’m currently learning **Fullstack Java Spring/ Angular**
+- 🌱 <b>Getting better at:</b> Agile, Software Development, Design Pattern, Blockchain, Devops.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=EngAbdalrhman.visitor-badge">
-<p/>
+<p/>-->
 
 # Github Stats
 
