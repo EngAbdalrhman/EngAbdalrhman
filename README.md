@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <h3 align="center">A Software Engineer From Egypt</h3>
 
 
-- 🌱 I’m currently learning **Fullstack Java Spring/ Angular**
-- 🌱 <b>Getting better at:</b> Agile, Software Development, Design Pattern, Blockchain, Devops.
+- 🌱 I’m currently working as **Fullstack Java Spring/ Angular**
+- 🌱 <b>Getting better at:</b> Agile, Software Development, Design Pattern, Machine Learning, Blockchain, Devops.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
